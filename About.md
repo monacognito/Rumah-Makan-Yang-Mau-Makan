@@ -1,5 +1,5 @@
 # Rumah-Makan-Yang-Mau-Makan
-A basic C program for restaurant using Data Structure concept. In this program there is three users, which is customers, admin, and system.
+A basic C program for restaurant using Data Structure concept. In this program there is three users consist of customers, admin, and system.
 
 Explanation:
 1. Customer
